@@ -8,7 +8,7 @@ const client = new Client({
 });
 
 const CHANNEL_ID = "1440278213720018945";
-const UNIVERSE_ID = "10020293919";
+const UNIVERSE_ID = "10037096357";
 
 let messageId = null;
 
