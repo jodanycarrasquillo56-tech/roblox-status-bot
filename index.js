@@ -28,7 +28,7 @@ const embed = new EmbedBuilder()
   .setColor(0x00ff00)
   .setTitle("🌴 Roblox Game Status 🌴")
   .setDescription("**💥 OG Puerto Rico RP 💥**")
-  .setThumbnail("https://cdn.discordapp.com/attachments/1368012469473247315/1480058487194259619/content.png?ex=69ae4b61&is=69acf9e1&hm=8d2e10fe828a85d200f945998cb8a96810164b383ca5aec948671b3f1e0ab198&")
+  .setThumbnail("https://media.discordapp.net/attachments/1368012469473247315/1496109756132364399/c8c0abdb-d86a-4ce6-b9da-97fc34eda269.png?ex=69e8b04a&is=69e75eca&hm=0b50a4e7b27a8cd1adeb2fcb8bd646dd2094e6f06f77ff21467abb0f5fc7e733&=&format=webp&quality=lossless&width=1376&height=917")
   .addFields(
     { name: "👤 Activos", value: String(game.playing), inline: true },
     { name: "👁️ Visitas", value: String(game.visits), inline: true },
